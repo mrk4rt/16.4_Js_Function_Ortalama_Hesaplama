@@ -1,0 +1,2 @@
+# 16.4_Js_Function_Ortalama_Hesaplama
+Js_Function_Ortalama_Hesaplama
